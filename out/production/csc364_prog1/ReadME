@@ -1,0 +1,4 @@
+I know my program has a few problems with:
+- inserting into an empty list
+- printing an extra line (caused by a problem from inserting into an empty list)
+- reaching the limit of the elements size (it assumes all slots are filled although there should be one free)

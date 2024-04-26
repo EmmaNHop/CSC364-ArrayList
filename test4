@@ -1,0 +1,12 @@
+6
+IF 1
+IP 2 2
+IP 3 3
+IP 4 4
+IP 5 5
+IR 6
+PL
+IF 3
+PL
+IR 88
+IF 55
